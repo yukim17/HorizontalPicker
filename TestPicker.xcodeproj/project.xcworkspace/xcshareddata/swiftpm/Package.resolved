@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "snappickerview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iamalexantonov/SnapPickerView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ac6da9ad6a852dba0c3ca09df58948d58ccea99c"
+      }
+    }
+  ],
+  "version" : 2
+}
